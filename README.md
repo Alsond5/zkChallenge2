@@ -1,4 +1,6 @@
-# Mina zkApp: My App
+# Mina zkApp: Challenge 2
+
+## I did the tests in main.ts
 
 This template uses TypeScript.
 
